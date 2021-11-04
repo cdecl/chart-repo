@@ -3,9 +3,9 @@ entries:
   mvcapp:
   - apiVersion: v2
     appVersion: "0.6"
-    created: "2021-11-04T14:22:53.578245646+09:00"
+    created: "2021-11-05T08:21:57.253174336+09:00"
     description: A Helm chart for Kubernetes
-    digest: ff28f1c2434531c801bf68106bd5b314e4ff90adac5619e6856d9765052afb83
+    digest: 1add04a307fd4610012604af382932a3c21c92e230dcdc4c692e0c71618bbe96
     name: mvcapp
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-04T14:22:53.578625847+09:00"
+    created: "2021-11-05T08:21:57.253497937+09:00"
     description: A Helm chart for Kubernetes
     digest: e77f5027a59c4d285baae7f73b64b0f1d97e737ed81e3a74c35a9b62fd56f95c
     name: nginx
@@ -22,4 +22,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-04T14:22:53.577741445+09:00"
+generated: "2021-11-05T08:21:57.252700135+09:00"
